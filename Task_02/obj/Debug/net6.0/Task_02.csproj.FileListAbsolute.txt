@@ -1,0 +1,15 @@
+D:\Учёба\Практические задания\HomeWork_05\Task_02\bin\Debug\net6.0\Task_02.exe
+D:\Учёба\Практические задания\HomeWork_05\Task_02\bin\Debug\net6.0\Task_02.deps.json
+D:\Учёба\Практические задания\HomeWork_05\Task_02\bin\Debug\net6.0\Task_02.runtimeconfig.json
+D:\Учёба\Практические задания\HomeWork_05\Task_02\bin\Debug\net6.0\Task_02.dll
+D:\Учёба\Практические задания\HomeWork_05\Task_02\bin\Debug\net6.0\Task_02.pdb
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.csproj.AssemblyReference.cache
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.AssemblyInfoInputs.cache
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.AssemblyInfo.cs
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.csproj.CoreCompileInputs.cache
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.dll
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\refint\Task_02.dll
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.pdb
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\Task_02.genruntimeconfig.cache
+D:\Учёба\Практические задания\HomeWork_05\Task_02\obj\Debug\net6.0\ref\Task_02.dll
